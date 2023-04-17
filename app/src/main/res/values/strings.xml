@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App5</string>
+    <string name = "txt_numero1"> Dame el primer numero</string>
+    <string name = "txt_numero2"> Dame el segundo numero</string>
+    <string name = "ck_dividir"> Divide el numero</string>
+    <string name = "btn_calcular"> Calcula</string>
+    <string name = "ck_multiplicar"> Multiplica los numeros</string>
+    <string name = "textView_resultado"> resultado operacion</string>
+</resources>
